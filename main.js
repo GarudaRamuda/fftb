@@ -1,4 +1,4 @@
-title = "FIGHT FOR THE BUTTON";
+title = "BUTTON FIGHT";
 
 description = `
 `;
@@ -9,7 +9,6 @@ characters = [
 ];
 
 options = {
-  isPlayingBgm: true,
 };
 
 
